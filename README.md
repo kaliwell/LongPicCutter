@@ -1,10 +1,16 @@
 ## 本修改版：切割线保存与鼠标快捷标记
 
+[**在线使用 → 长图快速切割**](https://kaliwell.github.io/LongPicCutter/)
+
+打开网页即可选择图片、标记切割线并下载切图 ZIP，无需安装。图片仅在浏览器本地处理，不上传服务器。
+
 新增原图像素坐标保存、逐图自动恢复、JSON 方案导入导出、鼠标位置快捷标记。详见 [使用说明](使用说明.md)。原项目介绍保留如下。
 
 本项目基于 [wumingluren/LongPicCutter](https://github.com/wumingluren/LongPicCutter) 修改，原作者为 [无名路人（wumingluren）](https://github.com/wumingluren)。下方的原版在线体验和下载链接属于原作者，不包含本修改版的新增功能。
 
 ### 使用本修改版
+
+推荐直接打开 [在线工具](https://kaliwell.github.io/LongPicCutter/)。切割线自动保存在当前浏览器中，也可导出 JSON 方案备份。
 
 下载本仓库后，用 Chrome 或 Edge 打开根目录的 `长图切割-直接打开.html` 即可使用。
 

@@ -1,3 +1,27 @@
+## 本修改版：切割线保存与鼠标快捷标记
+
+新增原图像素坐标保存、逐图自动恢复、JSON 方案导入导出、鼠标位置快捷标记。详见 [使用说明](使用说明.md)。原项目介绍保留如下。
+
+本项目基于 [wumingluren/LongPicCutter](https://github.com/wumingluren/LongPicCutter) 修改，原作者为 [无名路人（wumingluren）](https://github.com/wumingluren)。下方的原版在线体验和下载链接属于原作者，不包含本修改版的新增功能。
+
+### 使用本修改版
+
+下载本仓库后，用 Chrome 或 Edge 打开根目录的 `长图切割-直接打开.html` 即可使用。
+
+开发与验证：
+
+```sh
+npm ci
+npm test
+npm run dev
+```
+
+构建 GitHub Pages 版本：`npm run build:github`。完整操作与快捷键见 [使用说明](使用说明.md)。
+
+### 来源与许可证
+
+保留原项目介绍及来源链接。上传时原仓库未提供 LICENSE 文件，本修改版未额外指定许可证。
+
 # 无名长图片自由分割/切割在线工具
 
 新版功能更全，长图，横图，宫格分割都支持。
